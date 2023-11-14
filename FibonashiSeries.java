@@ -16,7 +16,7 @@ public class FibonashiSeries {
 		
 		//o/p
 		System.out.println("Fibonacci Series");
-		System.out.print(num1+"  "+num2+" "); //1  1   ,7-2=5
+		System.out.print(num1+"  "+num2+" "); //1  1  ,7-2=5
 		
 		
 		for(int i=1;i<=n-2;i++) {
