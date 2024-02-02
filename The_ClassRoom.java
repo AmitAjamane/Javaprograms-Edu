@@ -67,7 +67,7 @@ public class The_ClassRoom {
 	_Student_ s1 = new _Student_("IT",45);
 	_Classroom_ cm = new _Classroom_();
 	cm.registerStudent(s1);		
-	System.out.println(cm.studentCard("25m4"));
+	System.out.println(cm.studentCard("254"));
 	
 	}
 }
